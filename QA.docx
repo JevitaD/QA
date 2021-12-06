@@ -2,3 +2,21 @@ what is git diff and git show?
 what is S3 transfer acceleration?
 how do you connect multiple VPC's ?
 what are child modules?
+05/12/2021
+Sai QA
+1. Master-Slave configurations
+2. In your organisations, what is the challenge you faced with Jenkins?
+3. What are the quality checks that Sonarqube do?
+4. Difference between declarative and scripted pipeline
+5. What are upstream and downstream jobs?
+6. What is the CI/CD setup in your organisation?
+7. What will mvn clean deploy do?
+8. What are the environment variables used in Jenkins?
+9.  Explain the branching strategy in your company?
+10. what is middleware technology?
+11. What is flow control in Jenkins?
+12. Difference between Matrix based and Project based authorisation?
+13. What is Jenkins?
+14. What are the types of Pipeline?
+15. What is Jenkins file?
+16. What is Gearman plugin?
